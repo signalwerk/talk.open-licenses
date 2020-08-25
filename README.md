@@ -1,4 +1,4 @@
-# Talk Place · [![Build Status](https://travis-ci.org/signalwerk/talk.place.svg?branch=master)](https://travis-ci.org/signalwerk/talk.place)
+# Talk Licences for Open Source Software** and Free Content · [![Build Status](https://travis-ci.org/signalwerk/talk.open-licenses.svg?branch=master)](https://travis-ci.org/signalwerk/talk.open-licenses)
 
 
 
